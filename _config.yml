@@ -21,8 +21,7 @@
 title: Mi primer blog
 email: hcolios01@educantabria.es
 description: >- # this means to ignore newlines until "baseurl:"
-  Este es mi primer blog implementado con la herramienta SSG Jekyll dentro del 
-módulo de Implantación de Aplicaciones web.
+  Este es mi primer blog implementado con la herramienta SSG Jekyll dentro del módulo de Implantación de Aplicaciones web.
 baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://hugocolio.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: huco53
